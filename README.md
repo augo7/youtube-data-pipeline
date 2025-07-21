@@ -84,4 +84,5 @@ Implement robust logging, error handling, and testing frameworks for production 
 
 
 👨‍💻 About Me
-I am a passionate Computer Science student attending Texas State University, actively building expertise in data analytics and engineering. This project reflects my hands-on experience with APIs, data transformation, cloud platforms, and secure coding practices — foundational skills essential for modern data-driven organizations.
+
+I am a passionate Computer Science student attending Texas State University, actively building expertise in data analytics and engineering. This project a part of my journey of hands-on experience with APIs, data transformation, cloud platforms, and secure coding practices — foundational skills essential for modern data-driven organizations.
